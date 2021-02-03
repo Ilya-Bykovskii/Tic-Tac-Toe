@@ -70,10 +70,6 @@ main {
     margin-top: 1vh;
 }
 
-.game-status i {
-    font-size: 1.1ch;
-} 
-
 .result-container {
     position: absolute;
 

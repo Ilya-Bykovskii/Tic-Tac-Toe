@@ -66,6 +66,10 @@ main {
     font-size: 6.87vw ;
 }
 
+.game-status i {
+    font-size: 1.1ch;
+} 
+
 .game-icon.ph-x{
     color: #731f54;
 }
